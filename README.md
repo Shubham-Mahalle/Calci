@@ -1,1 +1,1 @@
-#Create this calculator app to learn interactive app using javascript properly
+# Create this calculator app to learn interactive app using javascript properly
