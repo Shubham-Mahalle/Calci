@@ -9,6 +9,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #096f5e;
 }
 .Calculator {
     width: 300px;
