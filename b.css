@@ -29,8 +29,12 @@ form input{
     padding: 1rem;
     color: #fff;
     background-color: #000;
+    font-size: 40px;
     text-align: right;
     pointer-events: none;
+}
+form input::placeholder{
+    color: #fff;
 }
 button{
     flex: 0 0 22%;
